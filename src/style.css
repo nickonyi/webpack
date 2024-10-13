@@ -1,12 +1,9 @@
 /* styles.css */
 body {
     background-color: rgb(192, 223, 57);
-    background-image: url('/src/assets/pexels-roneferreira-2735037.jpg');
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    
   }
   
   h1 {
-    color: aliceblue;
+    color: rgb(72, 151, 219);
   }
